@@ -11,13 +11,13 @@ cd ellipsoids
 then 
 
 ```
-conda create env -f environment.yml
+conda env create -f environment.yml
 ```
 
 or with `mamba`:
 
 ```
-mamba create env -f environment.yml
+mamba env create -f environment.yml
 ```
 
 then
